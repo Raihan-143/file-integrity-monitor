@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+*$py.class
+baseline.json
+test_folder/
+.venv/
+env/
